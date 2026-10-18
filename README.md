@@ -2,7 +2,7 @@
 
 Dashboard em Excel que transforma a base bruta de assinaturas do Xbox Game Pass em indicadores visuais para apoiar decisões de negócio.
 
-![Prévia do dashboard]<img width="1095" height="515" alt="dashboard" src="https://github.com/user-attachments/assets/8993ad07-ef7e-4750-9757-b7e418532763" />
+[Prévia do dashboard]<img width="1095" height="515" alt="dashboard" src="https://github.com/user-attachments/assets/8993ad07-ef7e-4750-9757-b7e418532763" />
 
 
 ## 🎯 Objetivo
