@@ -78,5 +78,5 @@ Para recriar do zero: insira sua base, crie as fórmulas `SUMIFS` na aba Cálcul
 - Os valores estão em R$ conforme a base fornecida.
 
 ## 👤 Autor
-
+Jonathan Moreira
 Projeto desenvolvido como desafio de dashboard de vendas no Excel.
